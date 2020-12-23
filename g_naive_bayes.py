@@ -1,5 +1,3 @@
-"""This will begin using the male/female training data from the wikipedia article on Naive Bayes."""
-
 import pandas as pd
 import numpy as np
 
